@@ -1,0 +1,14 @@
+.signin-button{
+    max-width: 450px;
+    height: 60px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.signin-img {
+    height: 55px;
+    width: 55px;
+    margin-left: 10px;
+}

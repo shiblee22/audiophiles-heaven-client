@@ -1,0 +1,38 @@
+.gear-card {
+    border:0;
+    border-radius: 15px;
+    box-shadow: whitesmoke;
+}
+
+.gear-image {
+    height: 250px;
+    width: auto;
+}
+
+.gear-name {
+    color: rgb(2, 2, 61);
+    font-weight: 700;
+}
+
+.lightgray-box {
+    background-color: #f8f9fa;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.gear-footer {
+    border-top: 0;
+    background-color:transparent;
+}
+
+.buy-button {
+    color: white;
+    background-color: rgb(84, 50, 205);
+    border-radius: 10px;
+}
+
+.price-tag {
+    color: rgb(84, 50, 205);
+    font-size: 40px;
+    font-weight: 700;
+}
